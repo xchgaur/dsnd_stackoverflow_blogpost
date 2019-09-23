@@ -17,6 +17,7 @@ We are using CRISP_DM process to solve the problem:This invlolves below major st
 - Data Understanding
 - Data Preparation
 - Modelling
+- Results
 - Conclusion
 
 # File Descriptions
