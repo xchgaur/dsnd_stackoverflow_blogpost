@@ -8,12 +8,23 @@ We are provided with  Stack Overflow data from 2017 which captures survey of mul
 2) Is there a difference in job satisfaction across the countries?
 3) What are the most important factors for employed people which come into consideration while applying for jobs?
 
-File Descriptions
+# Data
+The data is Stackoverflow survey results for 2017. Link: https://insights.stackoverflow.com/survey
 
-1) Stackoverflow.ipynb: juypter notebook with the implementation
-2) Stackoverflow.html
+# Approach
+We are using CRISP_DM process to solve the problem:This invlolves below major steps:
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Modelling
+- Conclusion
 
-#Packages
+# File Descriptions
+
+1) Stackoverflow.ipynb: juypter notebook with the implementation for the project
+2) Stackoverflow.html: html version of the notebook
+
+# Packages
 seaborn matplotlib numpy pandas sklearn
 
 # Results
