@@ -1,4 +1,5 @@
 This project is part of Udacity Data Scientist Nanodegree. It uses 2017 Stack overflow survey results to demonstrate the Data Science CRISP-DM process
+
 Blog: https://medium.com/@gchauhan.blr/crisp-dm-mine-the-unknown-823990a90239
 
 # Project Motivation
